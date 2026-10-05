@@ -22,7 +22,7 @@ JavaScript | TypeScript | Node.js | React | Next.js
 ## 💻 Featured Projects
 
 - [NoteHub](https://github.com/KStrochan/09-auth) – a notes management web app built with Next.js and TypeScript. Features note search, filtering by tag, create/edit/delete forms, client state with Zustand, data fetching with TanStack Query and cookie-based authentication. [Live demo](https://09-auth-tau-three.vercel.app)
-- [NoteHub API](https://github.com/KStrochan/nodejs-hw) – a REST API for a notes application built with Express and MongoDB (Mongoose). Features CRUD endpoints, request validation with Joi/celebrate, and user authentication with bcrypt and session cookies. Deployed on Render. [Live demo](https://kstrochan.github.io/nodejs-hw/)
+- [NoteHub API](https://github.com/KStrochan/nodejs-hw) – a REST API for a notes application built with Express and MongoDB (Mongoose). Features CRUD endpoints with MongoDB persistence. Request validation (celebrate/Joi) and user authentication (bcrypt, session cookies) are implemented on separate feature branches. Deployed on Render. [Live demo](https://kstrochan.github.io/nodejs-hw/)
 - [Berta HoReCa Orders](https://github.com/KStrochan/BertaGroup_order) – a B2B ordering platform for a wholesale distributor, built with Node.js and Upstash Redis. Features a 967-item catalog with search and category filters, a cart, order history for clients and Telegram order notifications. Used by real business clients. [Live demo](https://kstrochan.github.io/BertaGroup_order/)
 
 ## 🗣️ Languages
